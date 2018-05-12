@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40212'
     url: http://www.gutenberg.org/2009/agents/40212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39762#Etymologisches-W-rterbuch-der-deutschen-Seemannssprache
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-05-22'
 gutenberg_type: Text
