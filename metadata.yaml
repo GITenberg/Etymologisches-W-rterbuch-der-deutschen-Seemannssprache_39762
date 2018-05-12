@@ -1,0 +1,27 @@
+_repo: Etymologisches-W-rterbuch-der-deutschen-Seemannssprache_39762
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39762-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goedel, Gustav
+    gutenberg_agent_id: '40212'
+    url: http://www.gutenberg.org/2009/agents/40212
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39762'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naval art and science -- Dictionaries -- German'
+- !lcsh 'Sailors -- Germany -- Language -- Dictionaries'
+- !lcsh 'Seafaring life -- Dictionaries -- German'
+- !lcc 'PF'
+title: Etymologisches Wörterbuch der deutschen Seemannssprache
+url: http://www.gutenberg.org/ebooks/39762
